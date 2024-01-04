@@ -1,3 +1,9 @@
+po-debconf (1.0.21+nmu2) unstable; urgency=medium
+
+  * deepin beta3 rebuild No source change upload.
+
+ -- LiChengGang <lichenggang@uniontech.com>  Thu, 04 Jan 2024 15:06:48 +0800
+
 po-debconf (1.0.21+nmu1) unstable; urgency=medium
 
   * Non maintainer upload by the Reproducible Builds team.
